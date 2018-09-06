@@ -1,2 +1,1 @@
-first row 
-conflict on branch1
+MASTER VERSION
