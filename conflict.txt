@@ -1,2 +1,2 @@
-conflict on master 
-second line
+first row 
+conflict on branch1
